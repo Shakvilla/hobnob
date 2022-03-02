@@ -1,0 +1,24 @@
+{
+  "name": "hobnob",
+  "version": "1.0.0",
+  "description": "an enterprise javascript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shakvilla/hobnob.git"
+  },
+  "keywords": [
+    "javascript",
+    "enterprise",
+    "application"
+  ],
+  "author": "Abdullah Clement Abdul Shekur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shakvilla/hobnob/issues"
+  },
+  "homepage": "https://github.com/Shakvilla/hobnob#readme"
+}
