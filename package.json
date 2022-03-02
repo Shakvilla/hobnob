@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/Shakvilla/hobnob.git",
   "author": "Abdullah Clement Abdul Shekur",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "babel-build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/node": "^7.16.8"
+  }
 }
